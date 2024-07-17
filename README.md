@@ -1,0 +1,1 @@
+This is the first part of the project where we will use a 3D printed model of a car that we will then move with a PS2/PS3 joystick. First we must test it and configure it, which is what is done in this stage.
